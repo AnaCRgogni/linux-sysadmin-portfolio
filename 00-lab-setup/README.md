@@ -29,8 +29,8 @@ Using a VM allows me to:
 - Virtualization software: Oracle VirtualBox
 - Guest OS: Ubuntu Server 24.04 LTS
 - Hostname: sys-admin-lab
-- CPU: 2 cores
-- RAM: 2 GB
+- CPU: 3 cores
+- RAM: 3 GB
 - Disk: 25 GB
 - Network mode: Bridge Adapter
 - Main user: ana-lab
@@ -111,3 +111,4 @@ I learned that a virtual machine is useful because it allows me to practice with
 
 I also practiced using basic system inspection commands to understand the current state of a Linux system before making changes. This is important because system administrators need to check the environment carefully before configuring users, storage, networking, services, or security settings.
 
+I am also reviewing how to use git commands as I haven't used them in a while. 
